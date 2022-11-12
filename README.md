@@ -59,3 +59,5 @@ Hi, I'm Zeyad Mohamed!
 <p align="left"><a href="https://www.microsoft.com/en-us/software-download/windows10" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> </a>&nbsp;<a href="https://www.linux.org/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <hr>
 <center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-zeyadtarek&show_icons=true&theme=dark&locale=en&layout=compact" alt="eng-zeyadtarek" /></center>
+<hr>
+[![Zeyad's github activity graph](https://activity-graph.herokuapp.com/graph?username=Eng-ZeyadTarek&bg_color=31262c&color=f5f5f5&line=5d5695&point=828ba1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
