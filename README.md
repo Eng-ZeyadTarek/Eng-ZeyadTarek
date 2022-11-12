@@ -10,7 +10,7 @@ Hi, I'm Zeyad Mohamed!
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=I'm+a+freelancer+data+scientist;Interested+in+machine+learning.;deep+learning" alt="Typing SVG" /></a>
 </p>
 
-<img align="left" src="./1647128876838.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="230" />
+<img align="left" src="./Zeyad.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="230" />
 <hr>
 
 ```
