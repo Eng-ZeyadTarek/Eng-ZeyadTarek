@@ -9,6 +9,7 @@ Hi, I'm Zeyad Mohamed!
 </center>
 
 <hr>
+
 - 🔭 I’m currently working on **building AI and data science models for clients**
 
 - 🌱 I’m currently improved myself in **machine learning, deep learning, reinforcement learning, data analysis, NLP, etc..**
