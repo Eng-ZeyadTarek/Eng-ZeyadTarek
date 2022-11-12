@@ -14,7 +14,7 @@ Hi, I'm Zeyad Mohamed!
 <hr>
 
 ```
-Mahmoud81-dev@github
+Eng-ZeyadTarek@github
 -------------------------
 💻 I am a data scientist 
 📚 I have a B.Cs. degree in Computer Science from the university of Zagazig at Egypt.
@@ -33,14 +33,14 @@ Mahmoud81-dev@github
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/R%20-%2314354C.svg?logo=r&logoColor=white"></a>
+    <a href="#"><img alt="R" src="https://img.shields.io/badge/R%20-%2314354C.svg?logo=r&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 <p>
-    <!-- <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
+    <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
