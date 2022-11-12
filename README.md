@@ -60,4 +60,4 @@ Hi, I'm Zeyad Mohamed!
 <hr>
 <center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eng-zeyadtarek&show_icons=true&theme=dark&locale=en&layout=compact" alt="eng-zeyadtarek" /></center>
 <hr>
-https://activity-graph.herokuapp.com/graph?username=Eng-ZeyadTarek&bg_color=31262c&color=f5f5f5&line=5d5695&point=828ba1&area=true&hide_border=true
+<img src="https://activity-graph.herokuapp.com/graph?username=Eng-ZeyadTarek&bg_color=31262c&color=f5f5f5&line=5d5695&point=828ba1&area=true&hide_border=true>
