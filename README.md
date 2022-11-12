@@ -2,9 +2,12 @@
 Hi, I'm Zeyad Mohamed!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
+<center>
 <p align="center">
   <a align="center" style="text-align : center;" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=Are+you+looking+for+a+AI+engineer?;or+a+data+scientist+expert?;please, contact+with+me." alt="Typing SVG" /></a>
 </p>
+</center>
+
 <hr>
 - 🔭 I’m currently working on **building AI and data science models for clients**
 
