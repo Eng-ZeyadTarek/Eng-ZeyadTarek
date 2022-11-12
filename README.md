@@ -14,7 +14,7 @@ Hi, I'm Zeyad Mohamed!
 
 - 💬 Ask me about **Python, scikit-learn, pandas, matplotlib, numpy, scipy,**
 
-- 📫 Feel free to <a href="mailto:zeyadt600@gmail.com">contact me through email</a> me.
+- 📫 Feel free to contact me through my <a href="mailto:zeyadt600@gmail.com">email</a>.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-HDdeOyQmNez8SWW9YGT5X78ANxU8ppI/view?usp=sharing](https://drive.google.com/file/d/1-HDdeOyQmNez8SWW9YGT5X78ANxU8ppI/view?usp=sharing)
 
