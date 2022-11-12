@@ -16,7 +16,7 @@ Hi, I'm Zeyad Mohamed!
 
 - 📫 Feel free to contact me through my <a href="mailto:zeyadt600@gmail.com">email</a>.
 
-- 📄 Know about my experiences and check my <a href="shorturl.at/hpBS5">resume</a>.
+- 📄 Know about my experiences and check my <a href="https://drive.google.com/file/d/1-HDdeOyQmNez8SWW9YGT5X78ANxU8ppI/view?usp=sharing">resume</a>.
 
 - ⚡ Fun fact **I think that I can't get off teaching the machines**
 
