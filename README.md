@@ -42,7 +42,7 @@ Hi, I'm Zeyad Mohamed!
 <h3 align="left">Big data frameworks and packages:</h3>
 <p>
  <a href="https://hadoop.apache.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/></a><a href="https://spark.apache.org/" target="blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/></a>
-<a href="https://pig.apache.org/" target="blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Apache_Pig#/media/File:Apache_Pig_Logo.svg" alt="Pig latin" width="40" height="40"/></a>
+<a href="https://pig.apache.org/" target="blank" rel="noreferrer"><img src="https://en.wikipedia.org/wiki/Apache_Pig#/media/File:Apache_Pig_Logo.svg" alt="Pig latin" width="40" height="40"/></a>
 </p> 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
