@@ -10,19 +10,19 @@ Hi, I'm Zeyad Mohamed!
 
 <hr>
 
-- 🔭 I’m currently working on **building AI and data science models for clients**
+- 🔭 I’m currently working on **building AI and data science models for clients**.
 
-- 🌱 I’m currently improved myself in **machine learning, deep learning, reinforcement learning, data analysis, NLP, etc..**
+- 🌱 I’m currently improved myself in **machine learning, deep learning, reinforcement learning, data analysis, NLP, etc..**.
 
-- 👨‍💻 All of my projects are available at my <a target="blank" href ="https://github.com/Eng-ZeyadTarek">github profile</a>
+- 👨‍💻 All of my projects are available at my <a target="blank" href ="https://github.com/Eng-ZeyadTarek">github profile</a>.
 
-- 💬 Ask me about **Python, scikit-learn, pandas, matplotlib, numpy, scipy,**
+- 💬 Ask me about **Python, scikit-learn, pandas, matplotlib, numpy, scipy**.
 
 - 📫 Feel free to contact me through my <a target="blank" href="mailto:zeyadt600@gmail.com">email</a>.
 
 - 📄 Know about my experiences and check my <a target="blank" href="https://drive.google.com/file/d/1-HDdeOyQmNez8SWW9YGT5X78ANxU8ppI/view?usp=sharing">resume</a>.
 
-- ⚡ Fun fact **I think that I can't get off teaching the machines**
+- ⚡ Fun fact **I think that I can't get off teaching the machines**.
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
