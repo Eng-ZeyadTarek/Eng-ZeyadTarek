@@ -6,7 +6,7 @@ Hi, I'm Zeyad Mohamed!
   <a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=Are+you+looking+for+a+AI+engineer?;or+a+data+scientist+expert?;please, contact+with+me." alt="Typing SVG" /></a>
 </p>
 
-- 🔭 I’m currently working on **using of AR and AI in E-commerce**
+- 🔭 I’m currently working on **building AI and data science models for clients**
 
 - 🌱 I’m currently improved myself in **machine learning, deep learning, reinforcement learning, data analysis, NLP, etc..**
 
