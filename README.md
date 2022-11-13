@@ -22,7 +22,7 @@ Hi, I'm Zeyad Mohamed!
 
 💬 Ask me about Python, scikit-learn, pandas, matplotlib, numpy, scipy.
 
-📄 Know about my experiences and check my resume.
+📄 Know about my experiences and check my <a href="https://drive.google.com/file/d/1-HDdeOyQmNez8SWW9YGT5X78ANxU8ppI/view?usp=sharing" target="blank">resume</a>.
 
 ⚡ Fun fact I think that I can't get off teaching the machines.
 <hr>
