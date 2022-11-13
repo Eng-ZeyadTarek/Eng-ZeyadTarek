@@ -3,7 +3,8 @@ Hi, I'm Zeyad Mohamed!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <center>
-<img align="center" style="text-align:center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=Are+you+looking+for+a+AI+engineer?;or+a+data+scientist+expert?;please, contact+with+me." alt="Typing SVG" />
+<p align="center">
+<img align="center" style="text-align:center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=Are+you+looking+for+a+AI+engineer?;or+a+data+scientist+expert?;please, contact+with+me." alt="Typing SVG" /></p>
 </center>
 
 <hr>
