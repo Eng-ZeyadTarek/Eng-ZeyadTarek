@@ -4,7 +4,7 @@ Hi, I'm Zeyad Mohamed!
 
 <center>
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=Are+you+looking+for+a+AI+engineer?;or+a+data+scientist+expert?;please, contact+with+me." alt="Typing SVG" />
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&color=F74726&width=435&lines=Are+you+looking+for+a+AI+engineer?;or+a+data+scientist+expert?;please, contact+with+me." alt="Typing SVG" />
 </p>
 </center>
 
