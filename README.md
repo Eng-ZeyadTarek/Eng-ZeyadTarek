@@ -10,7 +10,7 @@ Hi, I'm Zeyad Mohamed!
 <hr>
 <center>
 <p align="center">
-<img align="center" style="text-align:center" src="https://trabeya.com/wp-content/uploads/2020/09/fin-brain2-1.gif" alt="AI brain" /></p>
+<img align="center" style="text-align:center" width="100" height="100" src="https://trabeya.com/wp-content/uploads/2020/09/fin-brain2-1.gif" alt="AI brain" /></p>
 </center>
 
 🧑‍🎓 I graduated from the faculty of computer sciences at Zagazig university with B.Sc.
