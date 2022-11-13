@@ -28,9 +28,9 @@ Hi, I'm Zeyad Mohamed!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:zeyadt600@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="40"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zeyad--mohamed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeyad--mohamed/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/zeyadelgharby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zeyadelgharby" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/zowtai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zowtai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/zeyad--mohamed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeyad--mohamed/" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/zeyadelgharby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/zeyadelgharby" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zowtai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zowtai" height="30" width="40" /></a>
 </p>
 <hr>
 <h3 align "left">Programming languages:</h3>
