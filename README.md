@@ -15,7 +15,7 @@ Hi, I'm Zeyad Mohamed!
 
 🧑‍🎓 I graduated from the faculty of computer sciences at Zagazig university with B.Sc.
 
-📖 I finished my M.Sc degree in AI and machine learning from Queen's University in Kingston, Canada with A+ grade.
+📖 I finished my M.Sc degree in AI and machine learning from Queen's University in Kingston, ON, Canada with A+ grade.
 
 🔭 I’m currently working on building AI and data science models for clients.
 
